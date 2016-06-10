@@ -33,4 +33,5 @@ mysqli_free_result($result);
 mysqli_close($db_connect);
 
 echo "<h1> now i am doing some editiong to the file...</h1>";
+echo "This is from file one...."
 ?>
